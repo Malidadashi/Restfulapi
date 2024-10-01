@@ -1,0 +1,73 @@
+[
+  {
+    "id": 3,
+    "title": "Learning Express",
+    "content": "Express is a minimal and flexible...",
+    "tags": [
+      "Express",
+      "Node.js",
+      "Backend"
+    ],
+    "publishedDate": "2024-09-20"
+  },
+  {
+    "id": 5,
+    "title": "First Article",
+    "content": "This is the content of the first article.",
+    "tags": [
+      "tag9",
+      "tag6"
+    ],
+    "publishedDate": "2024-09-24"
+  },
+  {
+    "id": 6,
+    "title": "First Article",
+    "content": "This is the content of the first article.",
+    "tags": [
+      "tag9",
+      "tag6"
+    ],
+    "publishedDate": "2024-09-24"
+  },
+  {
+    "id": 7,
+    "title": "First Article",
+    "content": "This is the content of the first article.",
+    "tags": [
+      "tag9",
+      "tag6"
+    ],
+    "publishedDate": "2024-09-24"
+  },
+  {
+    "id": 8,
+    "title": "First Article",
+    "content": "This is the content of the first article.",
+    "tags": [
+      "tag9",
+      "tag6"
+    ],
+    "publishedDate": "2024-09-24"
+  },
+  {
+    "id": 9,
+    "title": "First Article",
+    "content": "This is the content of the first article.",
+    "tags": [
+      "tag9",
+      "tag6"
+    ],
+    "publishedDate": "2024-09-24"
+  },
+  {
+    "id": 10,
+    "title": "ale",
+    "content": "This is the content of the first article.",
+    "tags": [
+      "tag9",
+      "tag6"
+    ],
+    "publishedDate": "2024-09-24"
+  }
+]
